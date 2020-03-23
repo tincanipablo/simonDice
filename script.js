@@ -39,7 +39,7 @@ function anunciarRonda(ronda) {
 
 function resaltar(color) {
     document.querySelector("#" + color).classList.add("destacar");
-    setTimeout(() => document.querySelector("#" + color).classList.remove("destacar"), 300);
+    setTimeout(() => document.querySelector("#" + color).classList.remove("destacar"), 1000);
 };
 
 function desbloquearUsuario() {

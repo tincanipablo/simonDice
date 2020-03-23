@@ -14,7 +14,7 @@
 .cuadrado{
     padding-top: 15%;
     opacity: 50% ;
-    transition: opacity 300ms;
+    transition: opacity 1000ms;
 }
 
 .destacar{
